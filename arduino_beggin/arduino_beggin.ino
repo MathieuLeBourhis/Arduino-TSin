@@ -16,6 +16,14 @@ void loop()
     digitalWrite(6, HIGH);     // allume la LED 
     delay(1000);     // attend, en ms, le temps indiqué entre parenthèse
    digitalWrite(6, LOW);     // éteint la LED 
+   delay(2000);     // attend, en ms, le temps indiqué entre parenthèse
+   digitalWrite(6, HIGH);     // allume la LED 
+    delay(4000);     // attend, en ms, le temps indiqué entre parenthèse
+    digitalWrite(6, LOW);     // éteint la LED 
    delay(2000);     // attend, en ms, le temps indiqué entre parenthèse 
+   digitalWrite(6, HIGH);     // allume la LED 
+    delay(2000);     // attend, en ms, le temps indiqué entre parenthèse
+   digitalWrite(6, LOW);     // éteint la LED 
+   delay(5000);
 }
     //fin du programme//
